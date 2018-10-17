@@ -1,0 +1,9 @@
+1. Menu for switching between key mappings, and mapping individual keys/buttons.
+2. NEED A THEME / NAME / DESIGN / ETC.!
+3. Special attack actually should do something...
+4. Enemies
+5. Placement Phase vs Wave Phase
+6. Levels
+7. Tower types
+8. Upgrades with Upgrade Key/Button
+9. AI Mode, where you queue up waves and the AI tries to predict/design/defend?

@@ -1,0 +1,10 @@
+ds_map_destroy(Values);
+Values = ds_map_create();
+ds_map_add(Values, "Left", false);
+ds_map_add(Values, "Right", false);
+ds_map_add(Values, "RotLeft", false);
+ds_map_add(Values, "RotRight", false);
+ds_map_add(Values, "Normal", false);
+ds_map_add(Values, "Special", false);
+ds_map_add(Values, "Aim X", 0);
+ds_map_add(Values, "Aim Y", 0);
