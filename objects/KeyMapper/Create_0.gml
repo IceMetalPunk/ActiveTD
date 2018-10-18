@@ -29,4 +29,9 @@ ds_map_add(Values, "Special", false);
 ds_map_add(Values, "Aim X", 0);
 ds_map_add(Values, "Aim Y", 0);
 
+Layouts = ds_map_create();
+ds_map_add_map(Layouts, "Keyboard", Keyboard);
+ds_map_add_map(Layouts, "Keyboard & Mouse", KeyboardMouse);
+ds_map_add_map(Layouts, "Gamepad", Gamepad);
+
 Mapping = "Keyboard";

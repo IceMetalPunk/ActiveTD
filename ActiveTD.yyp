@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "9ceb0532-68fe-4e39-8de1-c80e51d66147",
+            "Value": {
+                "id": "bde6de5d-c707-47c0-9498-3ef23821cc80",
+                "resourcePath": "objects\\KeybindMenu\\KeybindMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9ea158f6-3838-4b33-ab48-3f5408785a81",
             "Value": {
                 "id": "6c458f7e-35bf-4234-add2-b53f528b44b1",
@@ -276,6 +284,14 @@
                 "id": "4d1b73e4-12d8-4b51-8010-3c3452b4b7c6",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a8e53092-4c6d-4f6e-937a-de145d7a004a",
+            "Value": {
+                "id": "aa7e8fb4-40b4-4e17-803c-6e2fc4b000ac",
+                "resourcePath": "fonts\\fntTitle\\fntTitle.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "d9928767-66db-46f9-9b0c-327f5adbae0e",
+            "Value": {
+                "id": "8e6a597a-dcbb-48c7-b892-a283b15e6bf0",
+                "resourcePath": "scripts\\btn_map_key\\btn_map_key.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "df5a989d-7321-4229-830f-bfe0f11e5562",
             "Value": {
                 "id": "b3159bdb-9e8e-4fe1-9f11-27ef143d883f",
@@ -418,7 +442,8 @@
     "script_order": [
         "89517bb4-6d60-441d-8384-1ea2506f3040",
         "aba27979-0c05-435d-b42d-82e784a19463",
-        "b95d7e50-2094-4bd8-9d85-838a3d9c29f3"
+        "b95d7e50-2094-4bd8-9d85-838a3d9c29f3",
+        "d9928767-66db-46f9-9b0c-327f5adbae0e"
     ],
     "tutorial": ""
 }

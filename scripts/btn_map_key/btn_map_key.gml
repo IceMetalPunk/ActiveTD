@@ -1,0 +1,1 @@
+show_message(string(argument0) + " = " + KeybindMenu.button_index_map[argument0]);
