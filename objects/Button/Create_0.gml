@@ -1,0 +1,13 @@
+if_dne("text", "Undefined Button");
+if_dne("buttonId", -1);
+if_dne("execution", undefined);
+pressed = false;
+was_pressed = false;
+over = false;
+mouse_down = false;
+mouse_ox = mouse_x;
+mouse_oy = mouse_y;
+x1 = x;
+x2 = x;
+y1 = y;
+y2 = y;

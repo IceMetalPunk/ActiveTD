@@ -17,7 +17,7 @@ ds_map_add(Gamepad, "Swap Left", gp_shoulderlb);
 ds_map_add(Gamepad, "Swap Right", gp_shoulderrb);
 ds_map_add(Gamepad, "Fire Normal", gp_face1);
 ds_map_add(Gamepad, "Fire Special", gp_face2);
-ds_map_add(Gamepad, "Aim Stick", 0);
+ds_map_add(Gamepad, "Aim Stick", gp_axislh);
 
 Values = ds_map_create();
 ds_map_add(Values, "Left", false);
